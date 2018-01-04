@@ -1,0 +1,34 @@
+Ten plik jest klasyfikowany jako lista "Do zrobienia" w projekcie ElevateCore LTD
+
+########################
+      TEAMSPEAK
+########################
+- Dokończyć konfigurację botów query
+- Zrobić autorskie ikony
+- Zrobić opisy do kanałów
+- Napisać wzory na rekrutację
+- Napisać regulamin serwera
+- Napisać cennik & opis rang specjalnych
+- Rozpiska początkowych 2-3 eventów na serwer
+- Plan reklamy
+- Zakupienie maszyny pod serwer
+
+
+########################
+      STRONA
+########################
+- Logowanie oraz Rejestracja na stronie głównej
+- Statystyki teamspeak na stronie głównej
+- Panel administracyjny
+- Dokończenie ElevateProtectora
+- Dokończenie strony front-end (dodanie linków, buttonów itp)
+- Zrobienie oraz zakodowanie strony kontaktowej
+- Zrobienie oraz zakodowanie strony sklepu
+- Zrobienie oraz zakodowanie strony aktualności
+
+########################
+      FORUM
+- Zrobienie forum na silniku 4.2.x
+- Połącznie forum ze stroną www
+- Połączenie forum z serwerem teamnspeak
+########################
